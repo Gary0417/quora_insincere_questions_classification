@@ -4,7 +4,7 @@ This project aims to classify whether a question asked on Quora is sincere or no
 
 ## Code and Resources Used
 **Python Version:** 3.9  
-**Project Inspiration:** [Coursera Project - Transfer Learning with NLP and TensorFlow Hub]https://www.coursera.org/projects/transfer-learning-nlp-tensorflow-hub 
+**Project Inspiration:** [Coursera Project - Transfer Learning with NLP and TensorFlow Hub]https://www.coursera.org/projects/transfer-learning-nlp-tensorflow-hub   
 **Dataset:** [Quora Insincere Questions Classification on Kaggle](https://www.kaggle.com/c/quora-insincere-questions-classification/data)
 
 
