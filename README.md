@@ -1,6 +1,6 @@
 # Quora Insincere Questions Classification: Project Overview
 
-This project aims to classify whether a question asked on Quora is sincere or not using pre-trained NLP text embedding models from TensorFlow Hub. Transfer learning is performed to fine-tune the models.
+This project aims to classify whether a question asked on Quora is sincere or not using pre-trained NLP text embedding models from TensorFlow Hub.
 
 ## Code and Resources Used
 **Python Version:** 3.9  
