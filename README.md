@@ -23,7 +23,7 @@ The hyperparameters used in the model training include:
 - Optimizer: Adam optimizer (learning_rate=0.0001)
 - Loss function: BinaryCrossentropy
 - Metrics: accuracy
- Batch size: 32
+- Batch size: 32
 - Number of epochs: 100
 - Early stopping: EarlyStopping callback with a patience of 3
 
